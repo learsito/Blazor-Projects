@@ -1,0 +1,8 @@
+1.- Intro to dotnet web development:
+	https://github.com/dotnet/intro-to-dotnet-web-dev
+		1.1 Deeper into Razor pages:
+			https://docs.microsoft.com/aspnet/core/tutorials/razor-pages/
+2.- Compilación de una aplicación web con Blazor:
+	https://learn.microsoft.com/es-es/training/modules/build-blazor-webassembly-visual-studio-code/?WT.mc_id=dotnet-35129-website
+
+	
