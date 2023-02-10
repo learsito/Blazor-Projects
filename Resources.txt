@@ -2,6 +2,15 @@
 	https://github.com/dotnet/intro-to-dotnet-web-dev
 		1.1 Deeper into Razor pages:
 			https://docs.microsoft.com/aspnet/core/tutorials/razor-pages/
+		1.2 Deeper into Minimal API's (backend):
+			https://docs.microsoft.com/learn/paths/aspnet-core-minimal-api/
+		1.3 Challenges to Improve the Blazor Connect four game:
+			*Improve the parameters to the Board component so that you can pass any valid CSS color value.
+			*Improve the indicators appearance with some CSS and HTML layout
+			*Introduce sound effects
+			*Add a visual indicator and prevent a drop button from being used when the column is full
+			*Add networking capabilities so that you can play a friend in their browser
+			*Insert the game into a .NET MAUI with Blazor application and play it on your phone or tablet.
 2.- Compilación de una aplicación web con Blazor:
 	https://learn.microsoft.com/es-es/training/modules/build-blazor-webassembly-visual-studio-code/?WT.mc_id=dotnet-35129-website
 
