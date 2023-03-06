@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "F0b3UkvfM7wyj1IM14OdfXg7hjRy0aNBF8kaj9Jj5Ia07uadJPE4YSVd68pKfW007wBDODLdq9pxklSoTha1Kg==",
+  "dgSpecHash": "rcD/aRlP0RPNDQj7fgsfJvwsuTByeWpR5HlwkDzVaQVrlrsQRhItnAF0AX9xiNZM9BKOvRHzdjYNi4YLYhGdEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Intro to dotnet web development-My learning source\\Minimal API\\PizzaStore\\PizzaStore\\PizzaStore.csproj",
+  "projectFilePath": "/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/PizzaStore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Diego Villaseñor\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\Diego Villaseñor\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Diego Villaseñor\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
-    "C:\\Users\\Diego Villaseñor\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "C:\\Users\\Diego Villaseñor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "C:\\Users\\Diego Villaseñor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "/home/zandra/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/zandra/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/zandra/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/zandra/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/zandra/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/zandra/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
   "logs": []
 }

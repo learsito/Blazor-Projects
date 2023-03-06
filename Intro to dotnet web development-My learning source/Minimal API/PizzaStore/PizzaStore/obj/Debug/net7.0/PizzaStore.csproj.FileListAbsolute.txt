@@ -1,32 +1,64 @@
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\bin\Debug\net7.0\appsettings.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\bin\Debug\net7.0\PizzaStore.exe
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\bin\Debug\net7.0\PizzaStore.deps.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\bin\Debug\net7.0\PizzaStore.runtimeconfig.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\bin\Debug\net7.0\PizzaStore.dll
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\bin\Debug\net7.0\PizzaStore.pdb
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.csproj.AssemblyReference.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.AssemblyInfoInputs.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.AssemblyInfo.cs
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.csproj.CoreCompileInputs.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\staticwebassets\msbuild.PizzaStore.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\staticwebassets\msbuild.build.PizzaStore.props
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PizzaStore.props
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PizzaStore.props
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\scopedcss\bundle\PizzaStore.styles.css
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.dll
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\refint\PizzaStore.dll
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.pdb
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.genruntimeconfig.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\ref\PizzaStore.dll
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Intro to dotnet web development-My learning source\Minimal API\PizzaStore\PizzaStore\obj\Debug\net7.0\PizzaStore.csproj.CopyComplete
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/appsettings.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/PizzaStore.exe
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/PizzaStore.deps.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/PizzaStore.runtimeconfig.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/PizzaStore.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/PizzaStore.pdb
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.csproj.AssemblyReference.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.AssemblyInfoInputs.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.AssemblyInfo.cs
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.csproj.CoreCompileInputs.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/staticwebassets/msbuild.PizzaStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/staticwebassets/msbuild.build.PizzaStore.props
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.PizzaStore.props
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.PizzaStore.props
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/scopedcss/bundle/PizzaStore.styles.css
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/refint/PizzaStore.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.pdb
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.genruntimeconfig.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/ref/PizzaStore.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.csproj.CopyComplete
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/appsettings.Development.json
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/appsettings.json
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/PizzaStore
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/PizzaStore.deps.json
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/PizzaStore.runtimeconfig.json
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/PizzaStore.dll
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/PizzaStore.pdb
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.csproj.AssemblyReference.cache
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.AssemblyInfoInputs.cache
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.AssemblyInfo.cs
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.csproj.CoreCompileInputs.cache
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.MvcApplicationPartsAssemblyInfo.cs
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.MvcApplicationPartsAssemblyInfo.cache
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/staticwebassets/msbuild.PizzaStore.Microsoft.AspNetCore.StaticWebAssets.props
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/staticwebassets/msbuild.build.PizzaStore.props
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.PizzaStore.props
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.PizzaStore.props
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/staticwebassets.pack.json
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/staticwebassets.build.json
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/staticwebassets.development.json
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/scopedcss/bundle/PizzaStore.styles.css
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.csproj.CopyComplete
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.dll
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/refint/PizzaStore.dll
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.pdb
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/PizzaStore.genruntimeconfig.cache
+/home/zandra/Documents/Blazor-Projects/Intro to dotnet web development-My learning source/Minimal API/PizzaStore/PizzaStore/obj/Debug/net7.0/ref/PizzaStore.dll
