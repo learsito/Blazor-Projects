@@ -1,3 +1,6 @@
+0.- Creación de palicaciones web con blazor
+	https://learn.microsoft.com/es-mx/training/paths/build-web-apps-with-blazor/
+
 1.- Intro to dotnet web development:
 	https://github.com/dotnet/intro-to-dotnet-web-dev
 		1.1 Deeper into Razor pages:
@@ -15,3 +18,4 @@
 	https://learn.microsoft.com/es-es/training/modules/build-blazor-webassembly-visual-studio-code/?WT.mc_id=dotnet-35129-website
 
 	
+

@@ -1,0 +1,33 @@
+﻿@page "/todo" //Indicando que es un componente Al que se le hará referencia con 'Todo' = <Todo/>
+
+<PageTitle>To do list (@todos.Count( todo => !todo.IsDone)) </PageTitle>
+
+<h3>ToDo (@todos.Count(todo => !todo.IsDone)) </h3>
+
+<input placeholder="Something todo" @bind="newTodo" />
+<button @onclick="AddTodo" >Add</button>
+
+<ul>
+    @foreach (var todo in todos)
+    {
+        <li>
+            <input type="checkbox" @bind="todo.IsDone"/>
+            <input @bind="todo.Title" />
+        </li>
+    }
+</ul>
+
+@code {
+    private List<TodoItem> todos = new();
+        private string? newTodo;
+
+        private void AddTodo() {
+            //Todo: Add the todo
+            if (!string.IsNullOrWhiteSpace(newTodo)) {
+                todos.Add(new TodoItem {Title = newTodo });
+                newTodo = string.Empty;
+            }
+        }
+
+
+}

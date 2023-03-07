@@ -1,0 +1,2 @@
+- iniciar un proyecto server Blazor => dotnet new blazorserver -f net6.0
+- correr el proyecto auto refrescante => dotnet watch run

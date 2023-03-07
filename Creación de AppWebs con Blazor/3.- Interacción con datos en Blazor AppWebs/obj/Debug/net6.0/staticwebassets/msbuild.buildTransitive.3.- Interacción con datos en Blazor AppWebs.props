@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\3.- Interacción con datos en Blazor AppWebs.props" />
+</Project>

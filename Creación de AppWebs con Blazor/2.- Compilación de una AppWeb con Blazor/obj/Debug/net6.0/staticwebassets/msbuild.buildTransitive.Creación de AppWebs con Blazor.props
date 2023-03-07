@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Creación de AppWebs con Blazor.props" />
+</Project>

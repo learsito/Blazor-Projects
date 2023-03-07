@@ -1,0 +1,32 @@
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\bin\Debug\net6.0\appsettings.json
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\bin\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.staticwebassets.runtime.json
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\bin\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.exe
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\bin\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.deps.json
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\bin\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.runtimeconfig.json
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\bin\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.dll
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\bin\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.pdb
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.csproj.AssemblyReference.cache
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.AssemblyInfoInputs.cache
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.AssemblyInfo.cs
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.csproj.CoreCompileInputs.cache
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.RazorAssemblyInfo.cache
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.RazorAssemblyInfo.cs
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\staticwebassets\msbuild.3.- Interacción con datos en Blazor AppWebs.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\staticwebassets\msbuild.build.3.- Interacción con datos en Blazor AppWebs.props
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.3.- Interacción con datos en Blazor AppWebs.props
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.3.- Interacción con datos en Blazor AppWebs.props
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\scopedcss\bundle\3.- Interacción con datos en Blazor AppWebs.styles.css
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\scopedcss\projectbundle\3.- Interacción con datos en Blazor AppWebs.bundle.scp.css
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.dll
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\refint\3.- Interacción con datos en Blazor AppWebs.dll
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.pdb
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\3.- Interacción con datos en Blazor AppWebs.genruntimeconfig.cache
+C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\3.- Interacción con datos en Blazor AppWebs\obj\Debug\net6.0\ref\3.- Interacción con datos en Blazor AppWebs.dll

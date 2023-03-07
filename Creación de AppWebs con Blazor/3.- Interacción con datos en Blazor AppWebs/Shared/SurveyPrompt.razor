@@ -1,0 +1,16 @@
+﻿<div class="alert alert-secondary mt-4">
+    
+    <strong>@Title</strong>
+
+    <span class="text-nowrap">@SubTitle</span>
+
+</div>
+
+@code {
+    // Demonstrates how a parent component can supply parameters
+    [Parameter]
+    public string? Title { get; set; }
+    
+    [Parameter]
+    public string? SubTitle { get; set; }
+}
