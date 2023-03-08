@@ -1,64 +1,96 @@
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\bin\Debug\net6.0\appsettings.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\bin\Debug\net6.0\Creación de AppWebs con Blazor.staticwebassets.runtime.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\bin\Debug\net6.0\Creación de AppWebs con Blazor.exe
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\bin\Debug\net6.0\Creación de AppWebs con Blazor.deps.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\bin\Debug\net6.0\Creación de AppWebs con Blazor.runtimeconfig.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\bin\Debug\net6.0\Creación de AppWebs con Blazor.dll
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\bin\Debug\net6.0\Creación de AppWebs con Blazor.pdb
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.csproj.AssemblyReference.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.AssemblyInfoInputs.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.AssemblyInfo.cs
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.csproj.CoreCompileInputs.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.RazorAssemblyInfo.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.RazorAssemblyInfo.cs
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\staticwebassets\msbuild.Creación de AppWebs con Blazor.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\staticwebassets\msbuild.build.Creación de AppWebs con Blazor.props
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Creación de AppWebs con Blazor.props
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Creación de AppWebs con Blazor.props
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\scopedcss\bundle\Creación de AppWebs con Blazor.styles.css
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\scopedcss\projectbundle\Creación de AppWebs con Blazor.bundle.scp.css
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.dll
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\refint\Creación de AppWebs con Blazor.dll
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.pdb
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.genruntimeconfig.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\obj\Debug\net6.0\ref\Creación de AppWebs con Blazor.dll
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\bin\Debug\net6.0\appsettings.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\bin\Debug\net6.0\Creación de AppWebs con Blazor.staticwebassets.runtime.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\bin\Debug\net6.0\Creación de AppWebs con Blazor.exe
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\bin\Debug\net6.0\Creación de AppWebs con Blazor.deps.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\bin\Debug\net6.0\Creación de AppWebs con Blazor.runtimeconfig.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\bin\Debug\net6.0\Creación de AppWebs con Blazor.dll
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\bin\Debug\net6.0\Creación de AppWebs con Blazor.pdb
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.csproj.AssemblyReference.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.AssemblyInfoInputs.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.AssemblyInfo.cs
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.csproj.CoreCompileInputs.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.RazorAssemblyInfo.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.RazorAssemblyInfo.cs
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\staticwebassets\msbuild.Creación de AppWebs con Blazor.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\staticwebassets\msbuild.build.Creación de AppWebs con Blazor.props
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Creación de AppWebs con Blazor.props
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Creación de AppWebs con Blazor.props
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\scopedcss\bundle\Creación de AppWebs con Blazor.styles.css
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\scopedcss\projectbundle\Creación de AppWebs con Blazor.bundle.scp.css
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.dll
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\refint\Creación de AppWebs con Blazor.dll
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.pdb
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\Creación de AppWebs con Blazor.genruntimeconfig.cache
-C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\obj\Debug\net6.0\ref\Creación de AppWebs con Blazor.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/bin/Debug/net6.0/appsettings.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.staticwebassets.runtime.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.exe
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.deps.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.runtimeconfig.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.pdb
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.csproj.AssemblyReference.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.AssemblyInfoInputs.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.AssemblyInfo.cs
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.csproj.CoreCompileInputs.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.RazorAssemblyInfo.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.RazorAssemblyInfo.cs
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/staticwebassets/msbuild.Creación de AppWebs con Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/staticwebassets/msbuild.build.Creación de AppWebs con Blazor.props
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Creación de AppWebs con Blazor.props
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Creación de AppWebs con Blazor.props
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/scopedcss/bundle/Creación de AppWebs con Blazor.styles.css
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/scopedcss/projectbundle/Creación de AppWebs con Blazor.bundle.scp.css
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/refint/Creación de AppWebs con Blazor.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.pdb
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.genruntimeconfig.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/obj/Debug/net6.0/ref/Creación de AppWebs con Blazor.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/bin/Debug/net6.0/appsettings.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.staticwebassets.runtime.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.exe
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.deps.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.runtimeconfig.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.pdb
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.csproj.AssemblyReference.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.AssemblyInfoInputs.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.AssemblyInfo.cs
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.csproj.CoreCompileInputs.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.RazorAssemblyInfo.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.RazorAssemblyInfo.cs
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/staticwebassets/msbuild.Creación de AppWebs con Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/staticwebassets/msbuild.build.Creación de AppWebs con Blazor.props
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Creación de AppWebs con Blazor.props
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Creación de AppWebs con Blazor.props
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/scopedcss/bundle/Creación de AppWebs con Blazor.styles.css
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/scopedcss/projectbundle/Creación de AppWebs con Blazor.bundle.scp.css
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/refint/Creación de AppWebs con Blazor.dll
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.pdb
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.genruntimeconfig.cache
+C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/obj/Debug/net6.0/ref/Creación de AppWebs con Blazor.dll
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/bin/Debug/net6.0/appsettings.Development.json
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/bin/Debug/net6.0/appsettings.json
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.staticwebassets.runtime.json
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.deps.json
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.runtimeconfig.json
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.dll
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/bin/Debug/net6.0/Creación de AppWebs con Blazor.pdb
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.csproj.AssemblyReference.cache
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.GeneratedMSBuildEditorConfig.editorconfig
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.AssemblyInfoInputs.cache
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.AssemblyInfo.cs
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.csproj.CoreCompileInputs.cache
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.MvcApplicationPartsAssemblyInfo.cache
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.RazorAssemblyInfo.cache
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.RazorAssemblyInfo.cs
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/staticwebassets/msbuild.Creación de AppWebs con Blazor.Microsoft.AspNetCore.StaticWebAssets.props
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/staticwebassets/msbuild.build.Creación de AppWebs con Blazor.props
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Creación de AppWebs con Blazor.props
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Creación de AppWebs con Blazor.props
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/staticwebassets.pack.json
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/staticwebassets.build.json
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/staticwebassets.development.json
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/scopedcss/bundle/Creación de AppWebs con Blazor.styles.css
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/scopedcss/projectbundle/Creación de AppWebs con Blazor.bundle.scp.css
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.dll
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/refint/Creación de AppWebs con Blazor.dll
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.pdb
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/Creación de AppWebs con Blazor.genruntimeconfig.cache
+/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/Debug/net6.0/ref/Creación de AppWebs con Blazor.dll

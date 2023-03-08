@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Creación_de_AppWebs_con_Blazor
 build_property.RootNamespace = Creación_de_AppWebs_con_Blazor
-build_property.ProjectDir = C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor\
+build_property.ProjectDir = /home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Diego Villaseñor\Documents\Blazor projects\Creación de AppWebs con Blazor\Compilación de una AppWeb con Blazor
+build_property.MSBuildProjectDirectory = /home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/App.razor]
+[/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+[/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+[/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/Pages/Todo.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kby5yYXpvcg==
+[/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/Pages/Todo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG9kby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+[/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/_Imports.razor]
+[/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-iaebk5qyo1
+[/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-cdrpa6vqb5
 
-[C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-mzbtkvahcu
+[/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-y2229a5ny6
 
-[C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/Pages/_Host.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+[/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Diego Villaseñor/Documents/Blazor projects/Creación de AppWebs con Blazor/Compilación de una AppWeb con Blazor/Pages/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+[/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

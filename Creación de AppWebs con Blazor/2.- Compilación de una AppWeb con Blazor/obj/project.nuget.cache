@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "I68camFghihD+uB1SDu5HJ2UNVRoR5NdQ2vBjV5VRDnywrKYpSsqv+c2XfHBRY9RUYrTLEJ3nLkYcoIm+yMr0g==",
+  "dgSpecHash": "dDjCTL+rZbAfdF2x8rL3AhY8onC12x8ZgVS1w6oTHTuJ9UMiAtIFDluGihAO8r7LC765z3wniAO8wuOj8oYysw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Creación de AppWebs con Blazor\\Compilación de una AppWeb con Blazor\\Creación de AppWebs con Blazor.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/Creación de AppWebs con Blazor.csproj",
+  "expectedPackageFiles": [
+    "/home/zandra/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "/home/zandra/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "/home/zandra/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.14/microsoft.netcore.app.host.linux-x64.6.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
