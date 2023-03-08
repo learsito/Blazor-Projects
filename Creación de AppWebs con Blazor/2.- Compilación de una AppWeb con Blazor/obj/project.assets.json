@@ -8,31 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Diego Villaseñor\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/zandra/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Creación de AppWebs con Blazor\\Compilación de una AppWeb con Blazor\\Creación de AppWebs con Blazor.csproj",
+      "projectUniqueName": "/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/Creación de AppWebs con Blazor.csproj",
       "projectName": "Creación de AppWebs con Blazor",
-      "projectPath": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Creación de AppWebs con Blazor\\Compilación de una AppWeb con Blazor\\Creación de AppWebs con Blazor.csproj",
-      "packagesPath": "C:\\Users\\Diego Villaseñor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Creación de AppWebs con Blazor\\Compilación de una AppWeb con Blazor\\obj\\",
+      "projectPath": "/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/Creación de AppWebs con Blazor.csproj",
+      "packagesPath": "/home/zandra/.nuget/packages/",
+      "outputPath": "/home/zandra/Documents/Blazor-Projects/Creación de AppWebs con Blazor/2.- Compilación de una AppWeb con Blazor/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Diego Villaseñor\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/zandra/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,6 +54,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.14, 6.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[6.0.14, 6.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.14, 6.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -69,7 +76,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }
