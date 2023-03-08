@@ -1,0 +1,15 @@
+.ProjDoorImg {
+    max-width: 100px;
+    border-radius: 4px;
+    margin: 0 auto;
+    display: inline-block;
+}
+
+.DoorBox {
+    display: inline-block;
+    padding: 25px;
+    background-color: grey;
+    border-radius: 4px;;
+    margin: 5px;
+    align-items: center;
+}

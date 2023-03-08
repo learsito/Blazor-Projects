@@ -1,0 +1,41 @@
+*[b-3u0f3lyvrf] {
+    box-sizing: border-box;
+}
+
+.home-btn[b-3u0f3lyvrf] {
+    border: none;
+    background-color: blue;
+    margin: 0;
+    padding: 12px;
+    display: inline-block;
+}
+
+.TopBar[b-3u0f3lyvrf] {
+    border: none;
+    margin: 0;
+    padding: 0;
+    background-color: #708090;
+    display: flexbox;
+    flex-direction: row;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+
+    
+}
+
+.BarButton[b-3u0f3lyvrf] {
+    margin: 0;
+    display: inline-block;
+    background-color: antiquewhite;
+    padding: 15px;
+}
+
+.Buttons[b-3u0f3lyvrf] {
+    margin: 0;
+    background-color: aqua;
+    display: inline-block;
+}
