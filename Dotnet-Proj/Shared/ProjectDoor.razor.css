@@ -1,15 +1,36 @@
-.ProjDoorImg {
+.Preview {
     max-width: 100px;
     border-radius: 4px;
     margin: 0 auto;
     display: inline-block;
+    text-decoration: none;
+    text-align: center;
 }
 
 .DoorBox {
-    display: inline-block;
+    text-decoration: none;
+    display: inline-flex;
     padding: 25px;
     background-color: grey;
     border-radius: 4px;;
     margin: 5px;
     align-items: center;
+}
+
+.DoorContent {
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.DoorText {
+    color:aliceblue;
+    margin: 4px;
+    display: block;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    padding: 8px;
+    border-radius: 4px;
 }

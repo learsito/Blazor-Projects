@@ -3,6 +3,7 @@
 }
 
 .home-btn {
+    color: aliceblue;
     border: none;
     background-color: blue;
     margin: 0;
@@ -32,6 +33,7 @@
     display: inline-block;
     background-color: antiquewhite;
     padding: 15px;
+    border: none;
 }
 
 .Buttons {

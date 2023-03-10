@@ -1,4 +1,4 @@
-.ProjDoorImg[b-bmw7ddj1n8] {
+.Preview[b-bmw7ddj1n8] {
     max-width: 100px;
     border-radius: 4px;
     margin: 0 auto;
@@ -6,10 +6,29 @@
 }
 
 .DoorBox[b-bmw7ddj1n8] {
-    display: inline-block;
+    text-decoration: none;
+    display: inline-flex;
     padding: 25px;
     background-color: grey;
     border-radius: 4px;;
     margin: 5px;
     align-items: center;
+}
+
+.DoorContent[b-bmw7ddj1n8] {
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.DoorText[b-bmw7ddj1n8] {
+    color:aliceblue;
+    margin: 4px;
+    display: block;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    padding: 8px;
+    border-radius: 4px;
 }
