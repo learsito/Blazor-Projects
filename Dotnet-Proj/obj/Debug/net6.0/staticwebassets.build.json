@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JdUI7rSeTQmdUREjK9duTXJO0d4EXgXTSb5UItsyBqA=",
+  "Hash": "6lQl0n35jMeQBRtaPNn5nofjUEpnfkW0WJTzCHYLw1k=",
   "Source": "Dotnet-Proj",
   "BasePath": "_content/Dotnet-Proj",
   "Mode": "Default",
@@ -8,19 +8,19 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "Dotnet-Proj\\wwwroot",
+      "Name": "Dotnet-Proj/wwwroot",
       "Source": "Dotnet-Proj",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Dotnet-Proj.styles.css",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/obj/Debug/net6.0/scopedcss/bundle/Dotnet-Proj.styles.css",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/obj/Debug/net6.0/scopedcss/bundle/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "Dotnet-Proj.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Dotnet-Proj.styles.css"
+      "OriginalItemSpec": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/obj/Debug/net6.0/scopedcss/bundle/Dotnet-Proj.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Dotnet-Proj.bundle.scp.css",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/obj/Debug/net6.0/scopedcss/projectbundle/Dotnet-Proj.bundle.scp.css",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/obj/Debug/net6.0/scopedcss/projectbundle/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "Dotnet-Proj.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Dotnet-Proj.bundle.scp.css"
+      "OriginalItemSpec": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/obj/Debug/net6.0/scopedcss/projectbundle/Dotnet-Proj.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/FONT-LICENSE",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/ICON-LICENSE",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/README.md",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
+      "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\site.css",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/site.css",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
+      "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\favicon.ico",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/favicon.ico",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\images\\correo.png",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/images/correo.png",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "images/correo.png",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\correo.png"
+      "OriginalItemSpec": "wwwroot/images/correo.png"
     },
     {
-      "Identity": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\images\\preview.jpg",
+      "Identity": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/images/preview.jpg",
       "SourceId": "Dotnet-Proj",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\",
+      "ContentRoot": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/",
       "BasePath": "_content/Dotnet-Proj",
       "RelativePath": "images/preview.jpg",
       "AssetKind": "All",
@@ -303,7 +303,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\preview.jpg"
+      "OriginalItemSpec": "wwwroot/images/preview.jpg"
     }
   ]
 }

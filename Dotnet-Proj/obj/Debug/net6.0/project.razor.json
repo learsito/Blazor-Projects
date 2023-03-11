@@ -13,80 +13,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -654007192,
-        "Kind": "Components.Component",
-        "Name": "Dotnet_Proj.Pages.Counter",
-        "AssemblyName": "Dotnet-Proj",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Dotnet_Proj.Pages.Counter",
-          "Common.TypeNamespace": "Dotnet_Proj.Pages",
-          "Common.TypeNameIdentifier": "Counter"
-        }
-      },
-      {
-        "HashCode": 924501204,
-        "Kind": "Components.Component",
-        "Name": "Dotnet_Proj.Pages.Counter",
-        "AssemblyName": "Dotnet-Proj",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Dotnet_Proj.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Dotnet_Proj.Pages.Counter",
-          "Common.TypeNamespace": "Dotnet_Proj.Pages",
-          "Common.TypeNameIdentifier": "Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1939592278,
-        "Kind": "Components.Component",
-        "Name": "Dotnet_Proj.Pages.FetchData",
-        "AssemblyName": "Dotnet-Proj",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Dotnet_Proj.Pages.FetchData",
-          "Common.TypeNamespace": "Dotnet_Proj.Pages",
-          "Common.TypeNameIdentifier": "FetchData"
-        }
-      },
-      {
-        "HashCode": 51778575,
-        "Kind": "Components.Component",
-        "Name": "Dotnet_Proj.Pages.FetchData",
-        "AssemblyName": "Dotnet-Proj",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Dotnet_Proj.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Dotnet_Proj.Pages.FetchData",
-          "Common.TypeNamespace": "Dotnet_Proj.Pages",
-          "Common.TypeNameIdentifier": "FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -144309905,
         "Kind": "Components.Component",
         "Name": "Dotnet_Proj.Pages.Index",
@@ -161,39 +87,189 @@
         }
       },
       {
-        "HashCode": 1608360902,
+        "HashCode": -654007192,
         "Kind": "Components.Component",
-        "Name": "Dotnet_Proj.App",
+        "Name": "Dotnet_Proj.Pages.Counter",
         "AssemblyName": "Dotnet-Proj",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Dotnet_Proj.App",
-          "Common.TypeNamespace": "Dotnet_Proj",
-          "Common.TypeNameIdentifier": "App"
+          "Common.TypeName": "Dotnet_Proj.Pages.Counter",
+          "Common.TypeNamespace": "Dotnet_Proj.Pages",
+          "Common.TypeNameIdentifier": "Counter"
         }
       },
       {
-        "HashCode": -2061358623,
+        "HashCode": 924501204,
         "Kind": "Components.Component",
-        "Name": "Dotnet_Proj.App",
+        "Name": "Dotnet_Proj.Pages.Counter",
         "AssemblyName": "Dotnet-Proj",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Dotnet_Proj.App"
+            "TagName": "Dotnet_Proj.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Dotnet_Proj.App",
-          "Common.TypeNamespace": "Dotnet_Proj",
-          "Common.TypeNameIdentifier": "App",
+          "Common.TypeName": "Dotnet_Proj.Pages.Counter",
+          "Common.TypeNamespace": "Dotnet_Proj.Pages",
+          "Common.TypeNameIdentifier": "Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1939592278,
+        "Kind": "Components.Component",
+        "Name": "Dotnet_Proj.Pages.FetchData",
+        "AssemblyName": "Dotnet-Proj",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Dotnet_Proj.Pages.FetchData",
+          "Common.TypeNamespace": "Dotnet_Proj.Pages",
+          "Common.TypeNameIdentifier": "FetchData"
+        }
+      },
+      {
+        "HashCode": 51778575,
+        "Kind": "Components.Component",
+        "Name": "Dotnet_Proj.Pages.FetchData",
+        "AssemblyName": "Dotnet-Proj",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Dotnet_Proj.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Dotnet_Proj.Pages.FetchData",
+          "Common.TypeNamespace": "Dotnet_Proj.Pages",
+          "Common.TypeNameIdentifier": "FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1375179313,
+        "Kind": "Components.Component",
+        "Name": "Dotnet_Proj.Shared.ProjectDoor",
+        "AssemblyName": "Dotnet-Proj",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ProjectDoor"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ProjectPage",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ProjectPage",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Image",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Image",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Description",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Description",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Dotnet_Proj.Shared.ProjectDoor",
+          "Common.TypeNamespace": "Dotnet_Proj.Shared",
+          "Common.TypeNameIdentifier": "ProjectDoor"
+        }
+      },
+      {
+        "HashCode": -448680978,
+        "Kind": "Components.Component",
+        "Name": "Dotnet_Proj.Shared.ProjectDoor",
+        "AssemblyName": "Dotnet-Proj",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Dotnet_Proj.Shared.ProjectDoor"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ProjectPage",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "ProjectPage",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Image",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Image",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Description",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Description",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Dotnet_Proj.Shared.ProjectDoor",
+          "Common.TypeNamespace": "Dotnet_Proj.Shared",
+          "Common.TypeNameIdentifier": "ProjectDoor",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -334,6 +410,80 @@
         }
       },
       {
+        "HashCode": 1096645146,
+        "Kind": "Components.Component",
+        "Name": "Dotnet_Proj.Shared.NavMenu",
+        "AssemblyName": "Dotnet-Proj",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Dotnet_Proj.Shared.NavMenu",
+          "Common.TypeNamespace": "Dotnet_Proj.Shared",
+          "Common.TypeNameIdentifier": "NavMenu"
+        }
+      },
+      {
+        "HashCode": -352993771,
+        "Kind": "Components.Component",
+        "Name": "Dotnet_Proj.Shared.NavMenu",
+        "AssemblyName": "Dotnet-Proj",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Dotnet_Proj.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Dotnet_Proj.Shared.NavMenu",
+          "Common.TypeNamespace": "Dotnet_Proj.Shared",
+          "Common.TypeNameIdentifier": "NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 502720580,
+        "Kind": "Components.Component",
+        "Name": "Dotnet_Proj.Shared.TopBar",
+        "AssemblyName": "Dotnet-Proj",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TopBar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Dotnet_Proj.Shared.TopBar",
+          "Common.TypeNamespace": "Dotnet_Proj.Shared",
+          "Common.TypeNameIdentifier": "TopBar"
+        }
+      },
+      {
+        "HashCode": -1271252147,
+        "Kind": "Components.Component",
+        "Name": "Dotnet_Proj.Shared.TopBar",
+        "AssemblyName": "Dotnet-Proj",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Dotnet_Proj.Shared.TopBar"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Dotnet_Proj.Shared.TopBar",
+          "Common.TypeNamespace": "Dotnet_Proj.Shared",
+          "Common.TypeNameIdentifier": "TopBar",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 769822766,
         "Kind": "Components.Component",
         "Name": "Dotnet_Proj.Shared.MainLayout",
@@ -440,189 +590,39 @@
         }
       },
       {
-        "HashCode": 1096645146,
+        "HashCode": 1608360902,
         "Kind": "Components.Component",
-        "Name": "Dotnet_Proj.Shared.NavMenu",
+        "Name": "Dotnet_Proj.App",
         "AssemblyName": "Dotnet-Proj",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Dotnet_Proj.Shared.NavMenu",
-          "Common.TypeNamespace": "Dotnet_Proj.Shared",
-          "Common.TypeNameIdentifier": "NavMenu"
+          "Common.TypeName": "Dotnet_Proj.App",
+          "Common.TypeNamespace": "Dotnet_Proj",
+          "Common.TypeNameIdentifier": "App"
         }
       },
       {
-        "HashCode": -352993771,
+        "HashCode": -2061358623,
         "Kind": "Components.Component",
-        "Name": "Dotnet_Proj.Shared.NavMenu",
+        "Name": "Dotnet_Proj.App",
         "AssemblyName": "Dotnet-Proj",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Dotnet_Proj.Shared.NavMenu"
+            "TagName": "Dotnet_Proj.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Dotnet_Proj.Shared.NavMenu",
-          "Common.TypeNamespace": "Dotnet_Proj.Shared",
-          "Common.TypeNameIdentifier": "NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 502720580,
-        "Kind": "Components.Component",
-        "Name": "Dotnet_Proj.Shared.TopBar",
-        "AssemblyName": "Dotnet-Proj",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TopBar"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Dotnet_Proj.Shared.TopBar",
-          "Common.TypeNamespace": "Dotnet_Proj.Shared",
-          "Common.TypeNameIdentifier": "TopBar"
-        }
-      },
-      {
-        "HashCode": -1271252147,
-        "Kind": "Components.Component",
-        "Name": "Dotnet_Proj.Shared.TopBar",
-        "AssemblyName": "Dotnet-Proj",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Dotnet_Proj.Shared.TopBar"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Dotnet_Proj.Shared.TopBar",
-          "Common.TypeNamespace": "Dotnet_Proj.Shared",
-          "Common.TypeNameIdentifier": "TopBar",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1375179313,
-        "Kind": "Components.Component",
-        "Name": "Dotnet_Proj.Shared.ProjectDoor",
-        "AssemblyName": "Dotnet-Proj",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ProjectDoor"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ProjectPage",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "ProjectPage",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Image",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Image",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Description",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Description",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Dotnet_Proj.Shared.ProjectDoor",
-          "Common.TypeNamespace": "Dotnet_Proj.Shared",
-          "Common.TypeNameIdentifier": "ProjectDoor"
-        }
-      },
-      {
-        "HashCode": -448680978,
-        "Kind": "Components.Component",
-        "Name": "Dotnet_Proj.Shared.ProjectDoor",
-        "AssemblyName": "Dotnet-Proj",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Dotnet_Proj.Shared.ProjectDoor"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "ProjectPage",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "ProjectPage",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Image",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Image",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "Description",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Description",
-              "Common.GloballyQualifiedTypeName": "global::System.String"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Dotnet_Proj.Shared.ProjectDoor",
-          "Common.TypeNamespace": "Dotnet_Proj.Shared",
-          "Common.TypeNameIdentifier": "ProjectDoor",
+          "Common.TypeName": "Dotnet_Proj.App",
+          "Common.TypeNamespace": "Dotnet_Proj",
+          "Common.TypeNameIdentifier": "App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
