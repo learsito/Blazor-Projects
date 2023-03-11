@@ -1,0 +1,21 @@
+.BarButton[b-0fy3o7bz4j] {
+    color: black;
+    border: none;
+    margin: 0;
+    padding: 13px;
+    display: inline-block;
+    border: none;
+    text-decoration: none;
+}
+
+.BarButton:hover[b-0fy3o7bz4j] {
+    background-color: #f0f8ff;
+}
+
+div[b-0fy3o7bz4j]{
+    top: 0;
+    float: left;
+    margin: 0;
+    display: inline-block;
+}
+

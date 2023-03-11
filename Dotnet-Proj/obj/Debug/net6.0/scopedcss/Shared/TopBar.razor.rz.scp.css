@@ -1,25 +1,9 @@
-*[b-3u0f3lyvrf] {
-    box-sizing: border-box;
-}
-
-.home-btn[b-3u0f3lyvrf] {
-    color: aliceblue;
-    border: none;
-    background-color: blue;
-    margin: 0;
-    padding: 12px;
-    display: inline-block;
-}
-
 .TopBar[b-3u0f3lyvrf] {
     border: none;
     margin: 0;
     padding: 0;
     background-color: #708090;
-    display: flexbox;
-    flex-direction: row;
-
-    position: fixed;
+    position: sticky;
     top: 0;
     left: 0;
     right: 0;
@@ -28,12 +12,18 @@
     
 }
 
-.BarButton[b-3u0f3lyvrf] {
-    margin: 0;
-    display: inline-block;
-    background-color: antiquewhite;
-    padding: 15px;
+.home-btn[b-3u0f3lyvrf] {
+    text-decoration: none;
+    color: black;
     border: none;
+    margin: 0;
+    padding: 13px;
+    display: inline-block;
+    float: left;
+}
+
+.home-btn:hover[b-3u0f3lyvrf] {
+    background-color: #f0f8ff;
 }
 
 .Buttons[b-3u0f3lyvrf] {

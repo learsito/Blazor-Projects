@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q+HLOu0x8Tv8/EkDVajKN9qjOwINg8lZ/rAF6dBfyFbcV37OmwiCtegYR59JcHfKdGswvjfgUOm/6r0YgavNRQ==",
+  "dgSpecHash": "48VmsDNm9VjmIJQPQIJWZYHKY7Z2hOkW/9Fp6mPUw9K1cZFd7lovcFM2dK8arBSKMkG9sRhzu16mcTfpTTgrmQ==",
   "success": true,
-  "projectFilePath": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/Dotnet-Proj.csproj",
+  "projectFilePath": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\Dotnet-Proj.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

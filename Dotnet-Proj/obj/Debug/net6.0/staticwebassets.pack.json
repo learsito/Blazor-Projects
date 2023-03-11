@@ -1,83 +1,83 @@
 {
   "Files": [
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/obj/Debug/net6.0/scopedcss/projectbundle/Dotnet-Proj.bundle.scp.css",
-      "PackagePath": "staticwebassets/Dotnet-Proj.bundle.scp.css"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Dotnet-Proj.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Dotnet-Proj.bundle.scp.css"
     },
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/bootstrap/bootstrap.min.css",
-      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/bootstrap/bootstrap.min.css.map",
-      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/FONT-LICENSE",
-      "PackagePath": "staticwebassets/css/open-iconic"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/ICON-LICENSE",
-      "PackagePath": "staticwebassets/css/open-iconic"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/README.md",
-      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
-      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
-      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/css/site.css",
-      "PackagePath": "staticwebassets/css/site.css"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/favicon.ico",
-      "PackagePath": "staticwebassets/favicon.ico"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/images/correo.png",
-      "PackagePath": "staticwebassets/images/correo.png"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\images\\correo.png",
+      "PackagePath": "staticwebassets\\images\\correo.png"
     },
     {
-      "Id": "/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/wwwroot/images/preview.jpg",
-      "PackagePath": "staticwebassets/images/preview.jpg"
+      "Id": "C:\\Users\\Diego Villaseñor\\Documents\\Blazor projects\\Dotnet-Proj\\wwwroot\\images\\preview.jpg",
+      "PackagePath": "staticwebassets\\images\\preview.jpg"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Dotnet-Proj.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Dotnet-Proj.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Dotnet-Proj.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Dotnet-Proj.props",
       "PackagePath": "build\\Dotnet-Proj.props"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Dotnet-Proj.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Dotnet-Proj.props",
       "PackagePath": "buildMultiTargeting\\Dotnet-Proj.props"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Dotnet-Proj.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Dotnet-Proj.props",
       "PackagePath": "buildTransitive\\Dotnet-Proj.props"
     }
   ],
