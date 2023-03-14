@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/bin/Debug/net6.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/obj/Debug/net6.0/build-gz/KxQ9QkY8.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/obj/Debug/net6.0/scopedcss/bundle/random.styles.css",
+      "PackagePath": "staticwebassets/random.styles.css"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/img/archLogo.png",
+      "PackagePath": "staticwebassets/img/archLogo.png"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/img/english level.png",
+      "PackagePath": "staticwebassets/img/english level.png"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/img/learsito.jpg",
+      "PackagePath": "staticwebassets/img/learsito.jpg"
+    },
+    {
+      "Id": "/home/learsito/Documents/Blazor-Projects/random/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.random.props",
+      "PackagePath": "build\\random.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.random.props",
+      "PackagePath": "buildMultiTargeting\\random.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.random.props",
+      "PackagePath": "buildTransitive\\random.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.random.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

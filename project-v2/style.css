@@ -1,0 +1,39 @@
+body {
+    background-color: antiquewhite;
+    padding: 0;
+    margin: 0;
+}
+
+.title {
+    color: antiquewhite;
+    background-color: slategrey;
+    margin: 0;
+    text-align: center;
+    padding: 50px;
+}
+
+#stickyBar {
+    color: antiquewhite;
+    background-color: slategrey;
+    padding: 10px;
+    margin: 0;
+    position: sticky;
+    top: 0;
+}
+
+.barButton {
+    color: antiquewhite;
+    text-decoration: none;
+    margin: 0;
+    padding: 10px;
+}
+
+.barButton:hover {
+    background-color: antiquewhite;
+    cursor: pointer;
+    color: slategrey;
+}
+
+#layOut {
+    padding:0 auto;
+}
