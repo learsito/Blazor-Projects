@@ -9,6 +9,7 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Dotnet_Proj
 build_property.RootNamespace = Dotnet_Proj
+<<<<<<< HEAD
 build_property.ProjectDir = /home/learsito/Documents/Blazor-Projects/Dotnet-Proj/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
@@ -74,4 +75,71 @@ build_metadata.AdditionalFiles.CssScope =
 
 [/home/learsito/Documents/Blazor-Projects/Dotnet-Proj/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0xheW91dC5jc2h0bWw=
+=======
+build_property.ProjectDir = c:\Users\Diego Villaseñor\Documents\Blazor projects\Dotnet-Proj\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Diego Villaseñor\Documents\Blazor projects\Dotnet-Proj
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Diego Villaseñor/Documents/Blazor projects/Dotnet-Proj/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Diego Villaseñor/Documents/Blazor projects/Dotnet-Proj/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Diego Villaseñor/Documents/Blazor projects/Dotnet-Proj/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Diego Villaseñor/Documents/Blazor projects/Dotnet-Proj/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Diego Villaseñor/Documents/Blazor projects/Dotnet-Proj/Pages/Projects.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Diego Villaseñor/Documents/Blazor projects/Dotnet-Proj/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Diego Villaseñor/Documents/Blazor projects/Dotnet-Proj/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Diego Villaseñor/Documents/Blazor projects/Dotnet-Proj/Shared/BarButton.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJhckJ1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-0fy3o7bz4j
+
+[c:/Users/Diego Villaseñor/Documents/Blazor projects/Dotnet-Proj/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-f52wtair24
+
+[c:/Users/Diego Villaseñor/Documents/Blazor projects/Dotnet-Proj/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7syggmlt6z
+
+[c:/Users/Diego Villaseñor/Documents/Blazor projects/Dotnet-Proj/Shared/ProjectDoor.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFByb2plY3REb29yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-bmw7ddj1n8
+
+[c:/Users/Diego Villaseñor/Documents/Blazor projects/Dotnet-Proj/Shared/TopBar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvcEJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-3u0f3lyvrf
+
+[c:/Users/Diego Villaseñor/Documents/Blazor projects/Dotnet-Proj/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Diego Villaseñor/Documents/Blazor projects/Dotnet-Proj/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Diego Villaseñor/Documents/Blazor projects/Dotnet-Proj/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+>>>>>>> 8c3fb0e6feeff39b68573f81122171c67f9941de
 build_metadata.AdditionalFiles.CssScope = 
